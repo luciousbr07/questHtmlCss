@@ -2,7 +2,7 @@ html{
     max-width: 1900px;
     height: 100vh;
     background-color:  hsl(257, 40%, 49%);
-    background-image: url(./src/images/bg-desktop.svg);
+    background-image: url(../images/bg-desktop.svg);
     background-repeat: no-repeat;
     background-size: auto 100vh;
     background-position: center;
